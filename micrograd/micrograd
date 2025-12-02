@@ -1,0 +1,12 @@
+// micrograd
+digraph {
+	"" [label=""]
+	"" [label=""]
+	c [label=c]
+	a [label=a]
+	b [label=b]
+	c -> ""
+	a -> ""
+	b -> ""
+	"" -> ""
+}
